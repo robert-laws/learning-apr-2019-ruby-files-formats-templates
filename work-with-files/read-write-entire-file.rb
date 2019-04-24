@@ -16,5 +16,11 @@ this_dir = File.dirname(__FILE__)
 txt_file = File.expand_path(File.join(this_dir, '..', "files", 'list.txt'))
 
 data = File.read(txt_file)
-binding.pry
+# binding.pry
 puts data
+
+lines = File.readlines(txt_file)
+p lines
+lines[1] = "clean bathroom\n"
+
+File.write(txt_file, lines)

@@ -1,3 +1,5 @@
+require 'pry'
+
 # File Pointer
 
 # similar to cursor in word processing
@@ -35,5 +37,6 @@ puts file.lineno
 file.rewind
 
 file.each_line do |line|
+  # binding.pry
   puts "#{file.lineno}: #{line}"
 end
