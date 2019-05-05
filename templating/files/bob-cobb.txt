@@ -1,0 +1,4 @@
+Name:     Bob Cobb
+Age:      45
+Location: Boston
+Status:   Manager

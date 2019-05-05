@@ -1,0 +1,4 @@
+Name:     Jim Jupe
+Age:      47
+Location: Miami
+Status:   Associate

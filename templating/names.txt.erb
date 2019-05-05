@@ -1,0 +1,7 @@
+Total Employees: <%= @employees.count %>
+<% @employees.each do |employee| %>
+  Name:     <%= employee.name %>
+  Age:      <%= employee.age %>
+  Location: <%= employee.location %>
+  Status:   <%= employee.status %>
+<% end %>
