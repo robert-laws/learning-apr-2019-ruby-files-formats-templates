@@ -1,0 +1,10 @@
+---
+employees:
+- id: '1'
+  name: Bob Cobb
+  age: '34'
+  status: manager
+- id: '3'
+  name: Kal Kool
+  age: '35'
+  status: manager

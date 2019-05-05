@@ -1,0 +1,27 @@
+{
+  "employees": [{
+      "id": 1,
+      "name": "Bob Cobb",
+      "age": 34,
+      "status": "manager"
+    },
+    {
+      "id": 1,
+      "name": "Hal Hope",
+      "age": 38,
+      "status": "employee"
+    },
+    {
+      "id": 1,
+      "name": "Don Dome",
+      "age": 29,
+      "status": "employee"
+    },
+    {
+      "id": 1,
+      "name": "Ned Nope",
+      "age": 50,
+      "status": "manager"
+    }
+  ]
+}

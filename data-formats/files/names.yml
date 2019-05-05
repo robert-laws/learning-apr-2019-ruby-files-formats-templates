@@ -1,0 +1,18 @@
+---
+employees:
+- id: '1'
+  name: Bob Cobb
+  age: '34'
+  status: manager
+- id: '2'
+  name: Hal Hope
+  age: '19'
+  status: employee
+- id: '3'
+  name: Kal Kool
+  age: '35'
+  status: manager
+- id: '4'
+  name: Jim Jupe
+  age: '26'
+  status: employee
